@@ -1,9 +1,9 @@
-Install GO in debian 8
+# Install GO in debian 8
 
 
 1 — Download Go
 
-````
+```
 $ wget https://storage.googleapis.com/golang/go1.8.3.linux-amd64.tar.gz
 ```
 
